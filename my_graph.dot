@@ -1,0 +1,5 @@
+graph my_graph {
+	a -- c -- b -- d;
+	c -- e -- b;
+	e -- a;
+}

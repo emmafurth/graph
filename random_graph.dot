@@ -1,0 +1,6 @@
+graph random_graph {
+	B -- E -- F -- A -- H -- G -- C -- D;
+	H -- D -- E -- G -- B -- A;
+	G -- D -- B -- H -- C;
+	E -- H;
+}
